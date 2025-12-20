@@ -38,17 +38,13 @@ I am a Computer Science student with a strong interest in technology, problem-so
 ### 📂 Courses Projects
 -Tecnology & Information
 
----
-
-## 📑 Assignments
+📑 Assignments
 - [Industry Talk](assignments/industry-talk)
 - [Industry Visit](assignments/industry-visit)
 - [PC Assemble (Lab)](assignments/pc-assemble-lab)
 - [Design Thinking (Low Fidelity Prototype)](assignments/design-thinking)
 
----
-
-## ✍️ Reflections
+✍️ Reflections
 - [Industry Talk Reflection](reflections/industry-talk.md)
 - [Industry Visit Reflection](reflections/industry-visit.md)
 - [PC Assemble Reflection](reflections/pc-assemble.md)
