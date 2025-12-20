@@ -1,6 +1,6 @@
 # BONG-JING-RU
 e-Portfolio (TIS)
-# 👋 Hi, I'm Jr Bong
+# 👋 Hi, I'm Bong Jing Ru
 
 ![Profile Picture](images/profile.jpg)
 
@@ -21,37 +21,35 @@ I am a Computer Science student with a strong interest in technology, problem-so
 ### 🛠 Skills
 - C++
 - Basic Computer Hardware Knowledge
-
+- Vs Code
+  
 ---
 
 ## 📜 Recommended
 
----
-
-### 📘 Courses
-- Tecnology & Information system
 
 ---
 
 ### 🏅 Certificates
-- In progress
+- SPM
 
 ---
 
-### 📂 Projects
-- PC Assembly Lab
-- Design Thinking Low Fidelity Prototype
+### 📂 Courses Projects
+-Tecnology & Information
 
 ---
 
 ## 📑 Assignments
-- [Industry Talk & Industry Visit](assignments/industry-talk-visit)
+- [Industry Talk](assignments/industry-talk)
+- [Industry Visit](assignments/industry-visit)
 - [PC Assemble (Lab)](assignments/pc-assemble-lab)
 - [Design Thinking (Low Fidelity Prototype)](assignments/design-thinking)
 
 ---
 
 ## ✍️ Reflections
-- [Industry Talk & Visit Reflection](reflections/industry-talk.md)
+- [Industry Talk Reflection](reflections/industry-talk.md)
+- [Industry Visit Reflection](reflections/industry-visit.md)
 - [PC Assemble Reflection](reflections/pc-assemble.md)
 - [Design Thinking Reflection](reflections/design-thinking.md)
