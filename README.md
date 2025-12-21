@@ -25,10 +25,6 @@ I am a Computer Science student with a strong interest in technology, problem-so
   
 ---
 
-## 📜 Recommended
-
-
----
 
 ### 🏅 Certificates
 - SPM
