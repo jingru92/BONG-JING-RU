@@ -39,7 +39,7 @@ I am a Computer Science student with a strong interest in technology, problem-so
 -Tecnology & Information
 
 📑 Assignments
-- [Poster Industry Talk](assignments/Industry Talk poster(TIS).pdf)
+- [Poster Industry Talk](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Industry%20Talk%20poster(TIS).pdf)
 - [Video Industry Visit](assignments/industry-visit)
 - [Photo PC Assemble (Lab)](assignments/pc-assemble-lab)
 - [Design Thinking (Low Fidelity Prototype)](assignments/design-thinking)
