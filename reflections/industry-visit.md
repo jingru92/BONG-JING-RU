@@ -1,1 +1,3 @@
 # Reflection Industry Visit
+
+The industry visit to UTM Digital was truly an eye-opener for me. I gained a deeper understanding of the practical applications of network security, data management, and the importance of cooperation among programmers. I am very grateful to the programmers at UTM for providing such a wonderful e-learning website and the UTM Smart App, which create a comfortable and effective learning environment. This visit also highlighted the importance of staying updated with the latest technologies applied in modern systems. In addition, the opportunity to interact with the friendly staff at UTM Digital gave me a clearer view of future career opportunities and helped resolve many of my doubts.
