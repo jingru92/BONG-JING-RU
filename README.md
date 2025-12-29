@@ -53,7 +53,7 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
   👉 [View Poster](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Industry%20Talk%20poster(TIS).pdf)
 
 - 🎥 **Video Industry Visit**  
-  👉 [Click here to watch the video](https://drive.google.com/file/d/1nEayKiF-j_PuO62-0_rJDpw3LlRCsoI6/view?usp=sharing)
+  👉 [View Video](https://drive.google.com/file/d/1nEayKiF-j_PuO62-0_rJDpw3LlRCsoI6/view?usp=sharing)
 
 - 🖥 **PC Assemble (Lab Activity)**  
   👉 [View Photos](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Photo%20PC%20Accemble.pdf)
