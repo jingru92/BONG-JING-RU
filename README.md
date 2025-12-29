@@ -33,7 +33,7 @@ I am a Computer Science student with a strong interest in technology, problem-so
 ---
 
 ### 📂 Courses Projects
--Tecnology & Information
+Tecnology & Information System(SECP1513)
 
 📑 Assignments
 - [Poster Industry Talk](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Industry%20Talk%20poster(TIS).pdf)
