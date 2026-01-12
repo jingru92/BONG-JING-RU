@@ -49,7 +49,7 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 ### 📘 Technology & Information System (SECP1513)
 
 #### 📑 Assignments
-- 🖼 **Poster Industry Talk**  
+- 🖼 **Poster Industry Talk 1**  
   👉 [View Poster](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Industry%20Talk%20poster(TIS).pdf)
 
 - 🎥 **Video Industry Visit**  
@@ -57,6 +57,9 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 
 - 🖥 **PC Assemble (Lab Activity)**  
   👉 [View Photos](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Photo%20PC%20Accemble.pdf)
+
+- 📑 **Report Industry Talk 2 **
+  👉 [View report](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Photo%20PC%20Accemble.pdf)
 
 - 💡 **Design Thinking (Low Fidelity Prototype)**  
   👉 [View Project](assignments/design-thinking)
