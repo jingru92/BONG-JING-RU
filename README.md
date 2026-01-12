@@ -67,8 +67,8 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 ---
 
 ## ✍️ Reflections
-- 🗣 [Industry Talk Reflection](reflections/industry-talk.md)
-- 🏭 [Industry Visit Reflection](reflections/industry-visit-1.md)
+- 🗣 [Industry Talk 1 Reflection](reflections/industry-talk-1.md)
+- 🏭 [Industry Visit Reflection](reflections/industry-visit.md)
 - 🧩 [PC Assemble Reflection](reflections/pc-assemble.md)
 - 🎨 [Design Thinking Reflection](reflections/design-thinking.md)
 
