@@ -1,3 +1,3 @@
-# Reflection Industry Talk
+# Reflection Industry Talk 1
 
 The industry talk by PPG was very insightful. PPG is a global leader in coatings, and their products protect everything from the smartphones in our pockets and soda cans we drink from to airplanes and cars used for travel. Additionally, I was inspired by their efforts to fix “messy” data and modernize their IT systems through the Technology Center in Malaysia (MYTC), as they aim to use data to make faster and smarter decisions. I also realized the importance of having strong communication skills, as their fluent and excellent presentation helped me understand many new concepts and learn a lot from the talk.
