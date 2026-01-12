@@ -59,7 +59,7 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
   👉 [View Photos](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Photo%20PC%20Accemble.pdf)
 
 - 📑 **Report Industry Talk 2 **
-  👉 [View report](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Photo%20PC%20Accemble.pdf)
+  👉 [View report](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Assignment%203%20Report%20System%20Development%20(TIS).pdf)
 
 - 💡 **Design Thinking (Low Fidelity Prototype)**  
   👉 [View Project](assignments/design-thinking)
