@@ -73,11 +73,11 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 ---
 
 ## ✍️ Reflections
-- 🏭 [Industry Visit 1 Reflection(Assignment 1)](reflections/industry-visit.md)
-- 🗣 [Industry Talk 1 Reflection(Assignment 2)](reflections/industry-talk-1.md)
-- 🧩 [PC Assemble Reflection](reflections/pc-assemble.md)
-- 🗣 [Industry Talk 2 Reflection(Assignment 3)](reflections/industry-talk-1.md)
-- 🏭 [Industry Visit 2 Reflection(Assignment 4)](reflections/industry-visit.md)
+- 🏭 [Industry Visit 1 Reflection(Assignment 1)](reflections/Industry-Visit1.md)
+- 🗣 [Industry Talk 1 Reflection(Assignment 2)](reflections/Industry-Talk1.md)
+- 🧩 [PC Assemble Reflection](reflections/Pc-Assemble.md)
+- 🗣 [Industry Talk 2 Reflection(Assignment 3)](reflections/Industry-Talk2.md)
+- 🏭 [Industry Visit 2 Reflection(Assignment 4)](reflections/Industry-Visit2.md)
 - 🎨 [Design Thinking Reflection](reflections/design-thinking.md)
 
 ---
