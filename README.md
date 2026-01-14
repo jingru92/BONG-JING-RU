@@ -1,5 +1,5 @@
 # 🌟 BONG JING RU  
-### 📘 e-Portfolio
+## 📘 e-Portfolio
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a98f648b-5c36-4921-941b-7a52d4dc2a46" width="180" />
@@ -16,6 +16,7 @@
 ## 👋 About Me
 Hi! I’m **Bong Jing Ru**, a Computer Science student specializing in **Network Security**.  
 I am passionate about **technology**, **problem-solving**, and **hands-on learning**.  
+
 This GitHub e-Portfolio documents my **academic work**, **projects**, and **reflections**.
 
 ---
@@ -26,19 +27,13 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 - **Bachelor Degree in Computer Science (Network Security)**  
 - **Universiti Teknologi Malaysia**
 
----
-
 ### 💼 Current Position
 - 🎒 Student
-
----
 
 ### 🛠 Technical Skills
 - 💻 C++
 - 🧩 Basic Computer Hardware Knowledge
 - 🧠 Visual Studio Code (VS Code)
-
----
 
 ### 🏅 Certificates
 - 📜 SPM
@@ -46,39 +41,43 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 ---
 
 ## 📂 Course Projects
+
 ### 📘 Technology & Information System (SECP1513)
 
 #### 📑 Assignments
-- 🎥 **Video Industry Visit 1(Assignment 1)**  
+- 🎥 **Video Industry Visit 1 (Assignment 1)**  
   👉 [View Video](https://drive.google.com/file/d/1nEayKiF-j_PuO62-0_rJDpw3LlRCsoI6/view?usp=sharing)
-  
-- 🖼 **Poster Industry Talk 1(Assignment 2)**  
-  👉 [View Poster](assignments/Industry Talk poster(TIS).pdf)
+
+- 🖼 **Poster Industry Talk 1 (Assignment 2)**  
+  👉 [View Poster](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Industry%20Talk%20poster(TIS).pdf)
 
 - 🖥 **PC Assemble (Lab Activity)**  
   👉 [View Photos](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Photo%20PC%20Accemble.pdf)
 
-- 📑 **Report Industry Talk 2(Assignment3)** 
-  👉 [View report](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Assignment%203%20Report%20System%20Development%20(TIS).pdf)
+- 📑 **Report Industry Talk 2 (Assignment 3)**  
+  👉 [View Report](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Assignment%203%20Report%20System%20Development%20(TIS).pdf)
 
 - 🖥 **Newsletter Industry Visit 2 (Assignment 4)**  
   👉 [View Photos](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Photo%20PC%20Accemble.pdf)
 
+---
+
 #### 📑 Project
 - 💡 **Design Thinking (Low Fidelity Prototype)**  
-  👉 [View Report](https://github.com/jingru92/BONG-JING-RU/blob/main/Design%20Thinking/Design%20Thinking%20Report.pdf)
-  👉 [View Video](https://drive.google.com/file/d/1nnZiasxLqnx0gXoJObVv0aJuSMEyaGNg/view?usp=sharing)
+  👉 [View Report](https://github.com/jingru92/BONG-JING-RU/blob/main/Design%20Thinking/Design%20Thinking%20Report.pdf)  
+  👉 [View Video](https://drive.google.com/file/d/1nnZiasxLqnx0gXoJObVv0aJuSMEyaGNg/view?usp=sharing)  
   👉 [View Presentation](assignments/design-thinking)
 
 ---
 
 ## ✍️ Reflections
-- 🏭 [Industry Visit 1 Reflection(Assignment 1)](reflections/Industry-Visit1.md)
-- 🗣 [Industry Talk 1 Reflection(Assignment 2)](reflections/Industry-Talk1.md)
+- 🏭 [Industry Visit 1 Reflection (Assignment 1)](reflections/Industry-Visit1.md)
+- 🗣 [Industry Talk 1 Reflection (Assignment 2)](reflections/Industry-Talk1.md)
 - 🧩 [PC Assemble Reflection](reflections/Pc-Assemble.md)
-- 🗣 [Industry Talk 2 Reflection(Assignment 3)](reflections/Industry-Talk2.md)
-- 🏭 [Industry Visit 2 Reflection(Assignment 4)](reflections/Industry-Visit2.md)
+- 🗣 [Industry Talk 2 Reflection (Assignment 3)](reflections/Industry-Talk2.md)
+- 🏭 [Industry Visit 2 Reflection (Assignment 4)](reflections/Industry-Visit2.md)
 - 🎨 [Design Thinking Reflection](reflections/Design-Thinking.md)
+
 
 ---
 
