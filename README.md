@@ -63,7 +63,7 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 
 #### 📑 Project
 - 💡 **Design Thinking (Low Fidelity Prototype)**  
-  👉 [View Report](assignments/design-thinking)
+  👉 [View Report](https://github.com/jingru92/BONG-JING-RU/blob/main/Design%20Thinking/Design%20Thinking%20Report.pdf)
   👉 [View Video](assignments/design-thinking)
   👉 [View Presentation](assignments/design-thinking)
 
