@@ -49,17 +49,20 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 ### 📘 Technology & Information System (SECP1513)
 
 #### 📑 Assignments
+- 🎥 **Video Industry Visit 1(Assignment 1)**  
+  👉 [View Video](https://drive.google.com/file/d/1nEayKiF-j_PuO62-0_rJDpw3LlRCsoI6/view?usp=sharing)
+  
 - 🖼 **Poster Industry Talk 1(Assignment 2)**  
   👉 [View Poster](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Industry%20Talk%20poster(TIS).pdf)
-
-- 🎥 **Video Industry Visit(Assignment 1)**  
-  👉 [View Video](https://drive.google.com/file/d/1nEayKiF-j_PuO62-0_rJDpw3LlRCsoI6/view?usp=sharing)
 
 - 🖥 **PC Assemble (Lab Activity)**  
   👉 [View Photos](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Photo%20PC%20Accemble.pdf)
 
 - 📑 **Report Industry Talk 2(Assignment3)** 
   👉 [View report](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Assignment%203%20Report%20System%20Development%20(TIS).pdf)
+
+- 🖥 **Newsletter Industry Visit 2 (Assignment 4)**  
+  👉 [View Photos](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Photo%20PC%20Accemble.pdf)
 
 #### 📑 Project
 - 💡 **Design Thinking (Low Fidelity Prototype)**  
@@ -70,9 +73,11 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 ---
 
 ## ✍️ Reflections
-- 🗣 [Industry Talk 1 Reflection](reflections/industry-talk-1.md)
-- 🏭 [Industry Visit Reflection](reflections/industry-visit.md)
+- 🏭 [Industry Visit 1 Reflection(Assignment 1)](reflections/industry-visit.md)
+- 🗣 [Industry Talk 1 Reflection(Assignment 2)](reflections/industry-talk-1.md)
 - 🧩 [PC Assemble Reflection](reflections/pc-assemble.md)
+- 🗣 [Industry Talk 2 Reflection(Assignment 3)](reflections/industry-talk-1.md)
+- 🏭 [Industry Visit 2 Reflection(Assignment 4)](reflections/industry-visit.md)
 - 🎨 [Design Thinking Reflection](reflections/design-thinking.md)
 
 ---
