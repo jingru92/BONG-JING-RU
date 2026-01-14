@@ -1,4 +1,4 @@
-#Reflection Industrial Talk 2
+# Reflection Industrial Talk 2
 
 From the talk, I learned that success requires not only technical skills but also soft skills. In addition, I realised that good communication, teamwork, and hands-on practical experience are essential for achieving success. This SDLC talk gave me many insights and helped me better understand what is required for my future career, especially the importance of following a systematic development process in real-world projects. I will appreciate every learning opportunity and commit not to skip any classes at UTM. Furthermore, I will continuously enhance my technical skills and technical knowledge by engaging in more practical work and participating in workshops. Besides that, I will also focus on improving my communication and collaboration skills, and I will retain and apply all the knowledge I have gained at UTM even after I graduate.
 
