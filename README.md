@@ -78,7 +78,7 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 - 🧩 [PC Assemble Reflection](reflections/Pc-Assemble.md)
 - 🗣 [Industry Talk 2 Reflection(Assignment 3)](reflections/Industry-Talk2.md)
 - 🏭 [Industry Visit 2 Reflection(Assignment 4)](reflections/Industry-Visit2.md)
-- 🎨 [Design Thinking Reflection](reflections/design-thinking.md)
+- 🎨 [Design Thinking Reflection](reflections/Design-Thinking.md)
 
 ---
 
