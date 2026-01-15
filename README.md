@@ -39,7 +39,7 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
 - 📜 SPM
 
 ### 🧩 Social
-- 💻Linkeldn
+- 💻Linkedln
 👉 [BONG JING RU](https://www.linkedin.com/in/bong-jing-ru-15843539b/)
 
 ---
