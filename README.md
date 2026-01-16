@@ -62,7 +62,7 @@ This GitHub e-Portfolio documents my **academic work**, **projects**, and **refl
   👉 [View Report](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/Assignment%203%20Report%20System%20Development%20(TIS).pdf)
 
 - 🖥 **Newsletter Industry Visit 2 (Assignment 4)**  
-  👉 [View Photos](assignments/TIS Newsletter.pdf)
+  👉 [View Newsletter](https://github.com/jingru92/BONG-JING-RU/blob/main/assignments/TIS%20Newsletter.pdf)
 
 ---
 
